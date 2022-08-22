@@ -4,7 +4,7 @@
 # 步骤：
 
 1.需要有python基础  
-2.注册微信公众号平台，进入测试（个人开发者无法发送模版消息，只能借助测试号）  
+2.注册微信公众号平台  https://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index  进入测试（个人开发者无法发送模版消息，只能借助测试号）  
 3.需要下面的内容（修改方法在下面会介绍）：  
 
 
