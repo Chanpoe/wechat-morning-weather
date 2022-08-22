@@ -8,7 +8,6 @@
 3.需要下面的内容（修改方法在下面会介绍）：  
 
 
-![image](https://user-images.githubusercontent.com/84487466/185932772-ea4d8bde-02e1-44ea-8f44-be6f9802b7f1.png)
 ![image](https://user-images.githubusercontent.com/84487466/185932928-431770f1-d7d5-46b9-b0c6-dcb7a21697a0.png)
 ![image](https://user-images.githubusercontent.com/84487466/185933228-b2ca133a-a273-4004-9ffb-34d48904c0da.png)
 
