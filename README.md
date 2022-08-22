@@ -3,9 +3,9 @@
 
 # 步骤：
 
-1.需要有python基础
-2.注册微信公众号平台，进入测试（个人开发者无法发送模版消息，只能借助测试号）
-3.需要下面的内容（修改方法在下面会介绍）：
+1.需要有python基础  
+2.注册微信公众号平台，进入测试（个人开发者无法发送模版消息，只能借助测试号）  
+3.需要下面的内容（修改方法在下面会介绍）：  
 
 
 ![image](https://user-images.githubusercontent.com/84487466/185932772-ea4d8bde-02e1-44ea-8f44-be6f9802b7f1.png)
@@ -35,7 +35,7 @@ Love You Forever~
 
 # 需要修改的地方：
 
-最主要的修改位置是下面四个
+最主要的修改位置是下面四个  
 
 
 ![修改1](https://user-images.githubusercontent.com/84487466/185930408-8c4f19b4-dc84-4bc1-89d9-1bd94cc6dd68.png)
@@ -43,7 +43,7 @@ Love You Forever~
 ![修改3](https://user-images.githubusercontent.com/84487466/185930905-f1f0391f-3a22-433e-b6f1-fd0229600d07.png)
 ![image](https://user-images.githubusercontent.com/84487466/185931654-bc224b0a-d42a-4062-ad6f-4505f6ae11bc.png)
 
-其他的地方按需修改（注释和英文单词应该好理解）
+其他的地方按需修改（注释和英文单词应该好理解）  
 
 # Ps：
   如果需要修改文字颜色可以参照  https://www.chanpoe.top/rgb  复制RGB对应的十六进制码替换color的值即可
