@@ -2,9 +2,9 @@ import Gaode
 import WeChat
 
 # 微信id列表 给谁发加谁
-wx_id = ["o7sy75wV5eQHQCa8xobmG0f31-0A", "o7sy75y-HE1dWs0ll0Oklv2oH254"]
+wx_id = ["xxxxxxxxxxxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxx"]
 # 模板消息id
-template_id = 'XjOfYJgsxGYh7CpcD0qEe53PTqQocTQNRcUcuTEoOMk'
+template_id = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # 获取天气数据
 weatherData = Gaode.getWeather()
