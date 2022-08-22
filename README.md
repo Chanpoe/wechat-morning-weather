@@ -46,6 +46,6 @@ Love You Forever~
 其他的地方按需修改（注释和英文单词应该好理解）  
 
 # Ps：
-  如果需要修改文字颜色可以参照  https://www.chanpoe.top/rgb  复制RGB对应的十六进制码替换color的值即可  
-  定时功能的话搜索`crontab每日定时任务`学习即可
+  1.如果需要修改文字颜色可以参照  https://www.chanpoe.top/rgb  复制RGB对应的十六进制码替换color的值即可  
+  2.定时功能的话搜索`crontab每日定时任务`学习即可
  
